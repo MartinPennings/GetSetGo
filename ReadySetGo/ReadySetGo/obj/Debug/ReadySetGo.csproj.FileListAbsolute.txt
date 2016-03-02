@@ -1,0 +1,6 @@
+D:\Github\ReadySetGo\ReadySetGo\ReadySetGo\bin\Debug\ReadySetGo.exe.config
+D:\Github\ReadySetGo\ReadySetGo\ReadySetGo\bin\Debug\ReadySetGo.exe
+D:\Github\ReadySetGo\ReadySetGo\ReadySetGo\bin\Debug\ReadySetGo.pdb
+D:\Github\ReadySetGo\ReadySetGo\ReadySetGo\obj\Debug\ReadySetGo.csprojResolveAssemblyReference.cache
+D:\Github\ReadySetGo\ReadySetGo\ReadySetGo\obj\Debug\ReadySetGo.exe
+D:\Github\ReadySetGo\ReadySetGo\ReadySetGo\obj\Debug\ReadySetGo.pdb

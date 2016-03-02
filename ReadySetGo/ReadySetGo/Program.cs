@@ -60,14 +60,15 @@ namespace ReadySetGo
 
         static void DoSomeHeavyWork()
         {
-            //List<string> lst = new List<string>();
-            
-            //for (int i = 0; i <= 20000; i++)
-            //{
-            //    if (!lst.Contains(i.ToString())){
-            //        lst.Add(i.ToString());
-            //    }
-            //}
+            List<string> lst = new List<string>();
+
+            for (int i = 0; i <= 20000; i++)
+            {
+                if (!lst.Contains(i.ToString()))
+                {
+                    lst.Add(i.ToString());
+                }
+            }
         }
     }
 }

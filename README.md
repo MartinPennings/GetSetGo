@@ -1,5 +1,5 @@
 # GetSetGo
 
-Code from blog http://www.chipstock.nl/?p=33
+Code from blog http://www.devjockeys.com/blog
 
 Visual Studio 2015 Community Edition
